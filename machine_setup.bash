@@ -1,4 +1,4 @@
-#!/bin/
+#!/bin/bash
 
 sudo apt install emacs git tmux tree
 
